@@ -1,7 +1,7 @@
 {
   "name": "markDown",
   "version": "1.0.0",
-  "description": "",
+  "description": "cours Udemy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "react": "^16.5.2"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "sass": "^1.14.2"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-env": "^2.4.1",
+    "bulma": "^0.7.2",
+    "marked": "^0.5.1"
   }
 }
