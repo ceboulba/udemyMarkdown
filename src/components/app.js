@@ -10,7 +10,6 @@ const myBorders = {
 const borderLeft = {
     borderLeft: "2px dotted grey"
 }
-
 const pad = {
     padding: "0 1em"
 }
